@@ -4,6 +4,9 @@ This repository is for notes that will be useful to SRG researchers.
 
 ## How to set up the UVA CS department GPU servers for EvadeML-Zoo
 
+Once you have a CS department account, you should be able to ssh into the GPU servers: `gpusrv01`, `gpusrv02`, `gpusrv03`. 
+
+
 Run the following command to load the required modules:
 
 ```
